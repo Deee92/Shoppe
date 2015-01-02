@@ -11,3 +11,12 @@ two:
   description: MyText
   image_url: MyString
   price: 9.99
+
+harry:
+  title: Harry Potter Boxed Set
+  description:
+    Now for the first time ever, J.K. Rowling’s seven
+    bestselling Harry Potter books are available in a
+    stunning paperback boxed set!
+  price: 50.26
+  image_url: harry.jpg
